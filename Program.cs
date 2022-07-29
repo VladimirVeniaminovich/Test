@@ -27,3 +27,4 @@ do
     ArrayString = ArrayString2;
   }
 } while (s != "");
+SortingStrings();
